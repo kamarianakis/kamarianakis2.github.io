@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:F76E349F-23C5-41C0-8A0F-0D6ED8BA08F7</id>
+ <title>Page list Atom feed</title>
+ <updated>2020-07-20T11:31:15+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F1A9A69D-694A-4845-92CC-400E9EE95FBD</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">F1A9A69D-694A-4845-92CC-400E9EE95FBD</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2020-07-20T11:31:15.001+03:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EB3CD3F1-55F5-4BE0-98D0-98439387FF84</id>
+  <title>Projects</title>
+  <title xmlns="urn:iweb:">Projects</title>
+  <in-navbar xmlns="urn:iweb:">EB3CD3F1-55F5-4BE0-98D0-98439387FF84</in-navbar>
+  <link rel="alternate" href="Projects.html"/>
+  <updated>2020-07-20T11:31:15.002+03:00</updated>
+  <content>Projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:15670058-866B-4C48-ADE3-90840C07A21F</id>
+  <title>About me</title>
+  <title xmlns="urn:iweb:">About me</title>
+  <in-navbar xmlns="urn:iweb:">15670058-866B-4C48-ADE3-90840C07A21F</in-navbar>
+  <link rel="alternate" href="About_me.html"/>
+  <updated>2020-07-20T11:31:15.003+03:00</updated>
+  <content>About me</content>
+ </entry>
+</feed>
