@@ -1,5 +1,0 @@
-Testing Mathjax
-===============
-
-.. math::
-    \int{x^2 dx}{dt}
